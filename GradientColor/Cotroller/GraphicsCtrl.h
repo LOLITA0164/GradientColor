@@ -1,0 +1,13 @@
+//
+//  GraphicsCtrl.h
+//  GradientColor
+//
+//  Created by LOLITA on 2017/7/13.
+//  Copyright © 2017年 LOLITA. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface GraphicsCtrl : UIViewController
+
+@end
